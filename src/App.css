@@ -1,0 +1,23 @@
+.navBar {
+  text-align: right;
+}
+.navBar li {
+  display: inline-block;
+  padding: 10px 5px;
+}
+.nav-bar-link {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
+.nav-bar-link:hover {
+  color: green;
+}
+.navBar .active {
+  color: skyblue;
+  background-color: #282c34;
+}
+
+div {
+  text-align: center;
+}
